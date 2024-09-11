@@ -29,3 +29,4 @@
 <img src="assets/previews/Screenshot_1685263046.png" width="200">
 <img src="assets/previews/Screenshot_1685263049.png" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.dinosaur-app-ui"/>  
